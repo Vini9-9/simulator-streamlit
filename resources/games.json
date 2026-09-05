@@ -1,0 +1,1207 @@
+{
+  "campeonato": "Campeonato Paulista de Futsal",
+  "temporada": 2026,
+  "fase": "1º FASE DE CLASSIFICAÇÃO",
+  "jogos": [
+    {
+      "data": "07/04",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 2,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "08/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 4,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "08/04",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DO SINDICATO DOS METALÚRGICOS DE GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 1,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "09/04",
+      "horario": "18:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": 3,
+      "gols_visitante": 7,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/04",
+      "horario": "19:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 0,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/04",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/04",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 3,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "13/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 6,
+      "gols_visitante": 7,
+      "status": "Realizado"
+    },
+    {
+      "data": "14/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 5,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "14/04",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 8,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "14/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "16/04",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 3,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "17/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 4,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "21/04",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 8,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "24/04",
+      "horario": "19:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": 3,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "28/04",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 5,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/04",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 2,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/04",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 3,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/04",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 3,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/04",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 5,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "05/05",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 3,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "05/05",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 2,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "07/05",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 6,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "08/05",
+      "horario": "19:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 2,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "09/05",
+      "horario": "11:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 5,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "12/05",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 6,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "12/05",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 1,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "13/05",
+      "horario": "19:30h",
+      "ginasio": "GINASIO DO SESC GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 2,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "15/05",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 4,
+      "gols_visitante": 10,
+      "status": "Realizado"
+    },
+    {
+      "data": "19/05",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 3,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "19/05",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 0,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "20/05",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 4,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "21/05",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 4,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "21/05",
+      "horario": "17:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 3,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "22/05",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 1,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "28/05",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "28/05",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": 3,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "01/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 5,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/06",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 7,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/06",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 7,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/06",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 4,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "03/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 3,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "03/06",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DO SINDICATO DOS METALÚRGICOS DE GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": 4,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "08/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 4,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "09/06",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 0,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/06",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DO SINDICATO DOS METALÚRGICOS DE GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": 2,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "11/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 3,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "11/06",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 3,
+      "gols_visitante": 8,
+      "status": "Realizado"
+    },
+    {
+      "data": "11/06",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 6,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "16/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO CELSO DANIEL",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 2,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "17/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": 6,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "17/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 5,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "18/06",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 2,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "18/06",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 1,
+      "gols_visitante": 6,
+      "status": "Realizado"
+    },
+    {
+      "data": "18/06",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 2,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "19/06",
+      "horario": "16:00h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 4,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "19/06",
+      "horario": "16:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 2,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "23/06",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "24/06",
+      "horario": "16:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": 6,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "25/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/06",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 5,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/07",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 10,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/07",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 1,
+      "gols_visitante": 6,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/07",
+      "horario": "16:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 5,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "13/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "13/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 1,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "14/07",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 8,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "16/07",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 4,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "17/07",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 2,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "21/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 6,
+      "gols_visitante": 5,
+      "status": "Realizado"
+    },
+    {
+      "data": "27/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 0,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "29/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": 5,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/07",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 5,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "30/07",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "03/08",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 4,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "04/08",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 4,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "05/08",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DO SINDICATO DOS METALÚRGICOS DE GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 2,
+      "gols_visitante": 6,
+      "status": "Realizado"
+    },
+    {
+      "data": "11/08",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "11/08",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 4,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "12/08",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 1,
+      "gols_visitante": 4,
+      "status": "Realizado"
+    },
+    {
+      "data": "13/08",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "16/08",
+      "horario": "11:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "18/08",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": 3,
+      "gols_visitante": 9,
+      "status": "Realizado"
+    },
+    {
+      "data": "18/08",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": 1,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "19/08",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": 3,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "20/08",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": 0,
+      "gols_visitante": 8,
+      "status": "Realizado"
+    },
+    {
+      "data": "20/08",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": 1,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "21/08",
+      "horario": "19:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": 2,
+      "gols_visitante": 2,
+      "status": "Realizado"
+    },
+    {
+      "data": "24/08",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": 1,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "27/08",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": 3,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "27/08",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": 0,
+      "gols_visitante": 7,
+      "status": "Realizado"
+    },
+    {
+      "data": "31/08",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": 5,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "01/09",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": 0,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "01/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": 2,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 5,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DO SINDICATO DOS METALÚRGICOS DE GUARULHOS",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": 3,
+      "gols_visitante": 3,
+      "status": "Realizado"
+    },
+    {
+      "data": "02/09",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": 0,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "03/09",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "04/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "07/09",
+      "horario": "14:00h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "08/09",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": 0,
+      "gols_visitante": 0,
+      "status": "Realizado"
+    },
+    {
+      "data": "10/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO WLAMIR MARQUES",
+      "mandante": "S.C. CORINTHIANS PAULISTA PTA.",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "14/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": 1,
+      "gols_visitante": 1,
+      "status": "Realizado"
+    },
+    {
+      "data": "15/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO ALTOS DE SANTANA",
+      "mandante": "SÃO JOSÉ FUTSAL",
+      "visitante": "LIGA SANCAETANENSE DE F.S.",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "16/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "ESPORTE CLUBE PRAIA GRANDE",
+      "visitante": "BOTUCATU FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "17/09",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO A DA AABB",
+      "mandante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "visitante": "MAGNUS FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "17/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO TOBIAS SALGADO - A.A. FERROVIÁRIA",
+      "mandante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "visitante": "AA WIMPRO GUARULHOS",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "17/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "PULO FUTSAL CAMPINAS",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "18/09",
+      "horario": "19:00h",
+      "ginasio": "COMPLEXO ESPORTIVO MORADA DO SOL",
+      "mandante": "A.D. INDAIATUBA",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "22/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO DE ESPORTES VILA APARECIDA",
+      "mandante": "TAUBATÉ FUTSAL",
+      "visitante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "22/09",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO POLIESPORTIVO ADIB MOYSÉS DIB",
+      "mandante": "LIFESPORTS GESTAO ESPORTIVA LTDA | MX7 DIADEMA",
+      "visitante": "A.D. INDAIATUBA",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "22/09",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO PRESIDENTE CIRO II",
+      "mandante": "IMPACTO F.C.",
+      "visitante": "GUARULHENSE/TBC TRANPORTES",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "24/09",
+      "horario": "19:00h",
+      "ginasio": "GINASIO PARALIMPICO PROFESSOR OSNI BERTOTTI LEME",
+      "mandante": "BOTUCATU FUTSAL",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "24/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "28/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO NOÊMIA ASSUMPÇÃO",
+      "mandante": "SANTO ANDRE FUTEBOL CLUBE | SANTO ANDRÉ FUTSAL",
+      "visitante": "SÃO JOSÉ FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "28/09",
+      "horario": "19:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "AA WIMPRO GUARULHOS",
+      "visitante": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "29/09",
+      "horario": "19:00h",
+      "ginasio": "GINÁSIO MUNICIPAL ROGÊ FERREIRA",
+      "mandante": "PULO FUTSAL CAMPINAS",
+      "visitante": "FERROVIÁRIA/PINDA FUTSAL/SEMELP",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "30/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO POLIESPORTIVO JOAQUIM CAMBAÚVA RABELLO",
+      "mandante": "LIGA SANCAETANENSE DE F.S.",
+      "visitante": "IMPACTO F.C.",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "30/09",
+      "horario": "20:00h",
+      "ginasio": "GINÁSIO ARENA SOROCABA",
+      "mandante": "MAGNUS FUTSAL",
+      "visitante": "TAUBATÉ FUTSAL",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    },
+    {
+      "data": "01/10",
+      "horario": "20:30h",
+      "ginasio": "GINÁSIO FIORAVANTI IERVOLINO",
+      "mandante": "GUARULHENSE/TBC TRANPORTES",
+      "visitante": "ESPORTE CLUBE PRAIA GRANDE",
+      "gols_mandante": null,
+      "gols_visitante": null,
+      "status": "A Realizar"
+    }
+  ]
+}
